@@ -1,8 +1,8 @@
 #FROM centos:centos6
 
 #MAINTAINER syam.sankar2@cognizant.com
-
-# Enable EPEL for Node.js
+#MAINTAINER syam.sankar2@cognizant.com -- to be removed
+# Enable EPEL for Node.js -- to be removed
 #RUN rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
 
 # Install Node...
